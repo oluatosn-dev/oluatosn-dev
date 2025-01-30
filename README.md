@@ -4,7 +4,7 @@
 I'm a **Support Engineer** at [GitHub](https://GitHub.com), specializing in **DevOps**, **System Administration**, and **Security Architecture**. Passionate about automating workflows, optimizing cloud infrastructures, and building resilient systems.
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tosinfamoofo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tosinfamoofo) 
 
 ## 💻 Tech Stack
 ### 🛠 Programming & Scripting:
